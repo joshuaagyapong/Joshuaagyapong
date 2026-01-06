@@ -17,7 +17,6 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
 ---
-**Extra Projects **
 ## 👩🏻‍💻 IT Support/Help Desk Projects
 - **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)*
 
@@ -31,4 +30,3 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]  
 
 [linkedin]: https://linkedin.com/in/joshuaagyapong  
-[github]: https://github.com/joshuaagyapong
