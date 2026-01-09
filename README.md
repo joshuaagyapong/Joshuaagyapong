@@ -28,7 +28,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ☁️ SOC Lab & Cloud Security
  **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
  
-<hr/> 
+
 ## 🤳 Connect With Me  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
