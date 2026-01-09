@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 👩🏻‍💻 IT Support/Help Desk 
 - **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)**  
 
-## 🛡️ Identity and Access Management (IAM) Projects  
+## 🛡️ Identity and Access Management (IAM) 
 - **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
 
 ---
