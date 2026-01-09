@@ -19,13 +19,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)** 
 
 ---
-## 👩🏻‍💻 IT Support/Help Desk 
+## 🖥️ IT Support/Help Desk 
 - **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)**  
 
-## 🛡️ Identity and Access Management (IAM) 
+## 🔑 Identity and Access Management (IAM) 
 - **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
 
----
+---## ☁️ SOC Lab & Cloud Security
 - **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)**  
 
 ## 🤳 Connect With Me  
