@@ -8,6 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🚨 Security Operations | Incident Response
 **[Brute Force Attempt Detection]()**  
 **[PowerShell Suspicious Web Request]()**
+
 **[Potential Impossible Travel]()**-
 
 **[Excessive Resource Creation / Deletion]()**
