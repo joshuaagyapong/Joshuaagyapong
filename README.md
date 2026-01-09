@@ -12,7 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Potential Impossible Travel]()**
 - **[Excessive Resource Creation / Deletion]()**  
 
-#### 🔍 Threat Hunting & Detection 
+## 🔍 Threat Hunting & Detection 
 - **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
 - **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
 
