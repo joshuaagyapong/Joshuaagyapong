@@ -4,17 +4,19 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 
 ---
+## 🚨 Security Operations | Incident Response
+- **[Brute Force Attempt Detection]()**  
+- **[PowerShell Suspicious Web Request]()**
+- **[Potential Impossible Travel]()**
+- **[Excessive Resource Creation / Deletion]()*
+  
+---
+## 🔍 Threat Hunting & Detection 
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
 
 ## ⚠️ Vulnerability Management Projects  
 - **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)** 
-
----
-
-## 🚨 Threat Detection & Security Operations  
-- **[Brute Force Attempt Detection]()**  
-- **[PowerShell Suspicious Web Request]()** 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**  
 
 ---
 ## 👩🏻‍💻 IT Support/Help Desk Projects
