@@ -24,12 +24,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🔑 Identity and Access Management (IAM) 
 **[Okta–Microst.Graph-Entra ID Provision & Deprovsion](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
-<hr/> 
 
+---
 ## ☁️ SOC Lab & Cloud Security
  **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
  
-
+---
 ## 🤳 Connect With Me  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
