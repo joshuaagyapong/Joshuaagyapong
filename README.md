@@ -15,7 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 #### 🔍 Threat Hunting & Detection 
 - **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
-- **[Internet Facing Devices](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
+- **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
 
 ## ⚠️ Vulnerability Management  
 - **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
