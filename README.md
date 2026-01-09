@@ -8,7 +8,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Brute Force Attempt Detection]()**  
 - **[PowerShell Suspicious Web Request]()**
 - **[Potential Impossible Travel]()**
-- **[Excessive Resource Creation / Deletion]()*
+- **[Excessive Resource Creation / Deletion]()**
   
 ---
 ## 🔍 Threat Hunting & Detection 
