@@ -14,12 +14,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🔍 Threat Hunting & Detection 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
 
-## ⚠️ Vulnerability Management Projects  
+## ⚠️ Vulnerability Management  
 - **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)** 
 
 ---
-## 👩🏻‍💻 IT Support/Help Desk Projects
+## 👩🏻‍💻 IT Support/Help Desk 
 - **[Active Directory Setup](https://github.com/joshua-agyapong/Active-Directory-Setup.git)**  
 
 ## 🛡️ Identity and Access Management (IAM) Projects  
