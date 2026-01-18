@@ -5,6 +5,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
   
 
+## 🚨 AWS Cloud 
+- **[CI/CD Pipeline with GitActions, Docker, AWS ECR, ECS & OIDC ](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
+- **[AWS Infrastracture](Coming soon)**  
 
 ## 🚨 Security Operations | Incident Response
 - **[Brute Force Attempt Detection]()**  
