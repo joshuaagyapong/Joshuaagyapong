@@ -7,7 +7,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ☁️ AWS Cloud 
 - **[Cloud Engineer CI/CD Deployment with GitActions on AWS (ECR, ECS, OIDC)](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
-- **[AWS Infrastracture]()**  
+- **[Hosted A Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git)**  
 
 ## 🚨 Security Operations | Incident Response
 - **[Brute Force Attempt Detection]()**  
