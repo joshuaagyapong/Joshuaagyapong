@@ -36,7 +36,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 [linkedin]: https://linkedin.com/in/joshuaagyapong  
-![Visitors](https://komarev.com/ghpvc/?username=Joshuaagyapong&label=Visitors&color=brightgreen&style=for-the-badge)
+
 <!--🤳
 ## 🖥️ IT Support/Help Desk 
 - **[Active Directory Setup and User Management](https://github.com/joshua-agyapong/Active-Directory-Setup.git)** 
