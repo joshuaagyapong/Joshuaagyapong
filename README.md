@@ -6,10 +6,16 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
   
 
 ## ☁️ AWS Cloud Engineer/DevOps 
+
+- **Designed and documented a production-style 3-tier VPC architecture on AWS**  
+  *(VPC, public and private subnets, routing, NAT, Internet Gateway, security groups, and load balancing)*  
+  [View repository](https://github.com/joshuaagyapong/AWS-3-tier-VPC)
+
 - **[ Hosted A Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git)** 
 - **[ Hosted A Dynamic Website on AWS](https://github.com/joshua-agyapong)** 
 - **[ Cloud Engineer CI/CD Deployment with GitActions on AWS (ECR, ECS, OIDC)](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
 - **[ Deploy a Static Web App on AWS with Docker, Amazon ECR, and ECS]( https://github.com/joshuaagyapong/docker-project.git)**
+  
 
 ## 🚨 Security Operations | Incident Response
 - **[Brute Force Attempt Detection]()**  
