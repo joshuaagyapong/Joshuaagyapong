@@ -8,34 +8,28 @@ and production-grade hardening into cloud environments.
   
 ## ☁️ AWS Cloud Engineer/DevOps 
 
-- **Production-Grade 3-Tier VPC Architecture on AWS**  
+- **[Production-Grade 3-Tier VPC Architecture on AWS](https://github.com/joshuaagyapong/AWS-3-tier-VPC)**  
   Designed a multi-AZ VPC with public and private subnets, routing tables,
-  NAT Gateway, Internet Gateway, security groups, and an Application Load Balancer  
-  **[View repository](https://github.com/joshuaagyapong/AWS-3-tier-VPC)**
+  NAT Gateway, Internet Gateway, security groups, and an Application Load Balancer
 
-- **Hosted a Static Website on AWS**  
+- **[Hosted a Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS)**  
   Deployed a public-facing static website using EC2, Linux web server configuration,
-  and security groups  
-  **[View repository](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS)**
+  and security groups
 
-- **Hosted a Scalable Dynamic Web Application on AWS**  
-  Built a fault-tolerant architecture using EC2 Auto Scaling, Application Load Balancer,
-  and Amazon RDS  
-  **[View repository](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS)**
+- **[Hosted a Scalable Dynamic Web Application on AWS](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS)**  
+  Built a fault-tolerant architecture using EC2 Auto Scaling,
+  Application Load Balancer, and Amazon RDS
 
-- **Hosted a WordPress Website on AWS**  
+- **[Hosted a WordPress Website on AWS](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS)**  
   Implemented a WordPress deployment using EC2, RDS, private networking,
-  and secure access controls  
-  **[View repository](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS)**
+  and secure access controls
 
-- **Deployed a Containerized Web Application with Docker, Amazon ECR, and ECS**  
-  Containerized and deployed a web application to Amazon ECS using images stored in Amazon ECR  
-  **[View repository](https://github.com/joshuaagyapong/docker-project)**
+- **[Deployed a Static Web App on AWS with Docker, Amazon ECR, and ECS](https://github.com/joshuaagyapong/docker-project)**  
+  Containerized and deployed a web application to Amazon ECS using images stored in Amazon ECR
 
-- **CI/CD Deployment on AWS using GitHub Actions and OIDC**  
+- **[CI/CD Deployment on AWS using GitHub Actions and OIDC](https://github.com/joshuaagyapong/CI-CD-Pipeline)**  
   Built a secure CI/CD pipeline with GitHub Actions and OIDC authentication to AWS,
-  automating deployments to Amazon ECR and ECS  
-  **[View repository](https://github.com/joshuaagyapong/CI-CD-Pipeline)**
+  automating deployments to Amazon ECR and ECS
 
 
   
@@ -63,10 +57,15 @@ and production-grade hardening into cloud environments.
 
 ## 🛠️ Core Technologies
 
-AWS (VPC, EC2, ALB, ASG, RDS, ECS, ECR)  
-Docker | GitHub Actions | CI/CD | Linux  
-IAM | OIDC | Networking | Security Groups
- 
+**AWS:** VPC, EC2, ALB, Auto Scaling, RDS, ECS (Fargate), ECR  
+**Networking:** Public & Private Subnets, Route Tables, NAT Gateway, Internet Gateway  
+**Version Control:** Git, GitHub  
+**Containers & CI/CD:** Docker, GitHub Actions, CI/CD Pipelines, OIDC  
+**Security & IAM:** IAM, Security Groups, Least-Privilege Access  
+**Databases:** MySQL, PostgreSQL  
+**Operating Systems & Scripting:** Linux, Bash, PowerShell  
+
+
 
 ## 🤝 Connect With Me  
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
