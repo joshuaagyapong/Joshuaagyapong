@@ -1,85 +1,58 @@
-# Joshua Agyapong
-Cybersecurity Analyst | Cloud Engineer  
-Security Operations • AWS • IAM • DevOps
+# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cybersecurity Analyst & Cloud Engineer Portfolio 🔐 
 
-I design, deploy, and secure cloud systems using real-world architectures.  
-My focus is practical security, scalable infrastructure, and production-ready solutions.
 
----
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes, branching into Cloud Engineering 
 
-## ☁️ Cloud Engineering & DevOps (AWS)
+  
 
-- **Production-Style 3-Tier VPC Architecture**  
-  Designed a highly available AWS network with public and private subnets, routing tables, NAT Gateway, Internet Gateway, security groups, and load balancing.  
-  https://github.com/joshuaagyapong/AWS-3-tier-VPC
+## ☁️ AWS Cloud Engineer/DevOps 
 
-- **Static Website Hosting on AWS**  
-  Deployed a static website using AWS infrastructure and security best practices.  
-  https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git
+- **Designed and documented a production-style 3-tier VPC architecture on AWS**  
+  *(VPC, public and private subnets, routing, NAT, Internet Gateway, security groups, and load balancing)* [View repository](https://github.com/joshuaagyapong/AWS-3-tier-VPC) 
+  
 
-- **Scalable Dynamic Web Application on AWS**  
-  Built a dynamic application using EC2, Auto Scaling Groups, Application Load Balancer, and Amazon RDS.  
-  https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS.git
+- **[ Hosted A Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git)** 
+- **[ Hosted A Dynamic Website on AWS](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS.git)** 
+- **[ Hosted A WordPress Website on AWS](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS.git)**
+- **[ Deploy a Static Web App on AWS with Docker, Amazon ECR, and ECS]( https://github.com/joshuaagyapong/docker-project.git)**
+- **[CI/CD Deployment with GitActions on AWS (ECR, ECS, OIDC)](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
 
-- **WordPress Deployment on AWS**  
-  Hosted and secured a WordPress application using AWS compute, networking, and database services.  
-  https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS.git
 
-- **Containerized Static Web App with Docker, ECR, and ECS (Fargate)**  
-  Built and deployed a Dockerized application using Amazon ECR and Amazon ECS.  
-  https://github.com/joshuaagyapong/docker-project.git
 
-- **CI/CD Pipeline on AWS with GitHub Actions and OIDC**  
-  Implemented a secure CI/CD pipeline using GitHub Actions, OIDC authentication, Amazon ECR, and ECS.  
-  https://github.com/joshuaagyapong/CI-CD-Pipeline
 
----
+  
 
-## 🚨 Security Operations & Incident Response
+## 🚨 Security Operations | Incident Response
+- **[Brute Force Attempt Detection]()**  
+- **[PowerShell Suspicious Web Request]()**
+- **[Potential Impossible Travel]()**
+- **[Excessive Resource Creation / Deletion]()**  
 
-- Brute Force Authentication Attempt Detection  
-- PowerShell Suspicious Web Request Detection  
-- Impossible Travel Sign-In Detection  
-- Excessive Resource Creation and Deletion Monitoring  
+## 🔍 Threat Hunting & Detection 
+- **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
+- **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
 
----
+## ⚠️ Vulnerability Management  
+- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)**  
 
-## 🔍 Threat Hunting & Detection Engineering
+## 🔑 Identity and Access Management (IAM) 
+- **[Okta–Microsoft Entra ID Provisioning & Deprovisioning](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
 
-- **Tor Browser Usage Detection**  
-  https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git
 
-- **Internet-Facing Asset Exposure Detection**  
-  https://github.com/joshuaagyapong/Internet-Facing-Devices
+## ☁️ SOC Lab & Cloud Security
+- **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
+ 
 
----
+## 🤝 Connect With Me  
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
-## ⚠️ Vulnerability Management
-
-- **Vulnerability Management Program Implementation**  
-  https://github.com/joshua-agyapong/vulnerability-management-program.git
-
-- **Programmatic Vulnerability Remediation (PowerShell and Bash)**  
-  https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git
-
----
-
-## 🔑 Identity and Access Management (IAM)
-
-- **Okta and Microsoft Entra ID Provisioning and Deprovisioning**  
-  https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git
-
----
-
-## ☁️ SOC & Cloud Security Labs
-
-- **SOC and Honeynet with Azure**  
-  https://github.com/joshuaagyapong/Azure-Honeypot.git
-
----
-
-## 🤝 Connect
-
-LinkedIn: https://www.linkedin.com/in/joshuaagyapong
+[linkedin]: https://linkedin.com/in/joshuaagyapong
 
 ![Visitors](https://komarev.com/ghpvc/?username=Joshuaagyapong&label=Visitors&color=brightgreen&style=for-the-badge)
+
+<!--🤳
+## 🖥️ IT Support/Help Desk 
+- **[Active Directory Setup and User Management](https://github.com/joshua-agyapong/Active-Directory-Setup.git)** 
+
+
