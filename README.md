@@ -1,58 +1,71 @@
-# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cybersecurity Analyst & Cloud Engineer Portfolio 🔐 
+#!/bin/bash
+# ============================================================
+# Joshua Agyapong — Cybersecurity Analyst & Cloud Engineer
+# LinkedIn: https://www.linkedin.com/in/joshuaagyapong
+# ============================================================
 
+echo "=============================================="
+echo " Joshua Agyapong | Cybersecurity & Cloud Portfolio"
+echo "=============================================="
+echo ""
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes, branching into Cloud Engineering 
+echo "---- AWS Cloud Engineer / DevOps Projects ----"
+echo "- Hosted A Static Website on AWS"
+echo "  https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git"
 
-  
+echo "- Hosted A Dynamic Website on AWS (EC2, ASG, ALB, RDS)"
+echo "  https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS.git"
 
-## ☁️ AWS Cloud Engineer/DevOps 
+echo "- Hosted A WordPress Website on AWS"
+echo "  https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS.git"
 
-- **Designed and documented a production-style 3-tier VPC architecture on AWS**  
-  *(VPC, public and private subnets, routing, NAT, Internet Gateway, security groups, and load balancing)* [View repository](https://github.com/joshuaagyapong/AWS-3-tier-VPC) 
-  
+echo "- Deploy Static Web App on AWS using Docker, ECR, and ECS"
+echo "  https://github.com/joshuaagyapong/docker-project.git"
 
-- **[ Hosted A Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git)** 
-- **[ Hosted A Dynamic Website on AWS](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS.git)** 
-- **[ Hosted A WordPress Website on AWS](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS.git)**
-- **[ Deploy a Static Web App on AWS with Docker, Amazon ECR, and ECS]( https://github.com/joshuaagyapong/docker-project.git)**
-- **[CI/CD Deployment with GitActions on AWS (ECR, ECS, OIDC)](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
+echo "- CI/CD Pipeline on AWS using GitHub Actions, ECR, ECS, and OIDC"
+echo "  https://github.com/joshuaagyapong/CI-CD-Pipeline"
 
+echo ""
+echo "---- Security Operations & Incident Response ----"
+echo "- Brute Force Attempt Detection"
+echo "  (Repository in progress)"
 
+echo "- Suspicious PowerShell Web Request Detection"
+echo "  (Repository in progress)"
 
+echo "- Impossible Travel Detection"
+echo "  (Repository in progress)"
 
-  
+echo "- Excessive Resource Creation and Deletion Detection"
+echo "  (Repository in progress)"
 
-## 🚨 Security Operations | Incident Response
-- **[Brute Force Attempt Detection]()**  
-- **[PowerShell Suspicious Web Request]()**
-- **[Potential Impossible Travel]()**
-- **[Excessive Resource Creation / Deletion]()**  
+echo ""
+echo "---- Threat Hunting & Detection ----"
+echo "- Tor Browser Usage Detection"
+echo "  https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git"
 
-## 🔍 Threat Hunting & Detection 
-- **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
-- **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
+echo "- Internet-Facing Asset Exposure Detection"
+echo "  https://github.com/joshuaagyapong/Internet-Facing-Devices"
 
-## ⚠️ Vulnerability Management  
-- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)**  
+echo ""
+echo "---- Vulnerability Management ----"
+echo "- Vulnerability Management Program Implementation"
+echo "  https://github.com/joshua-agyapong/vulnerability-management-program.git"
 
-## 🔑 Identity and Access Management (IAM) 
-- **[Okta–Microsoft Entra ID Provisioning & Deprovisioning](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
+echo "- Programmatic Vulnerability Remediation (PowerShell & Bash)"
+echo "  https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git"
 
+echo ""
+echo "---- Identity and Access Management (IAM) ----"
+echo "- Okta and Microsoft Entra ID Provisioning & Deprovisioning"
+echo "  https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git"
 
-## ☁️ SOC Lab & Cloud Security
-- **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
- 
+echo ""
+echo "---- SOC Lab & Cloud Security ----"
+echo "- Azure SOC and Honeynet with Attack Simulation and Remediation"
+echo "  https://github.com/joshuaagyapong/Azure-Honeypot.git"
 
-## 🤝 Connect With Me  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
-[linkedin]: https://linkedin.com/in/joshuaagyapong
-
-![Visitors](https://komarev.com/ghpvc/?username=Joshuaagyapong&label=Visitors&color=brightgreen&style=for-the-badge)
-
-<!--🤳
-## 🖥️ IT Support/Help Desk 
-- **[Active Directory Setup and User Management](https://github.com/joshua-agyapong/Active-Directory-Setup.git)** 
-
-
+echo ""
+echo "=============================================="
+echo " End of Portfolio"
+echo "=============================================="
