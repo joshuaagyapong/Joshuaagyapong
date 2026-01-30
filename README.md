@@ -1,58 +1,77 @@
-# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cybersecurity Analyst & Cloud Engineer Portfolio 🔐 
+# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong)  
+**Cybersecurity Analyst | Cloud & DevOps Engineer**
 
+Hands-on cybersecurity and cloud engineering portfolio focused on real-world systems.  
+Experience spans security operations, vulnerability management, IAM, and AWS infrastructure.
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes, branching into Cloud Engineering 
+---
 
-  
+## ☁️ Cloud Engineering & DevOps (AWS)
 
-## ☁️ AWS Cloud Engineer/DevOps 
+- **[AWS 3-Tier VPC Architecture – Production Design](https://github.com/joshuaagyapong/AWS-3-tier-VPC)**  
+  VPC, public and private subnets, routing tables, NAT Gateway, Internet Gateway, ALB, and security groups
 
-- **Designed and documented a production-style 3-tier VPC architecture on AWS**  
-  *(VPC, public and private subnets, routing, NAT, Internet Gateway, security groups, and load balancing)* [View repository](https://github.com/joshuaagyapong/AWS-3-tier-VPC) 
-  
+- **[Host a Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS)**  
+  EC2, security groups, networking, and web server configuration
 
-- **[ Hosted A Static Website on AWS](https://github.com/joshuaagyapong/Host-A-Static-Website-on-AWS.git)** 
-- **[ Hosted A Dynamic Website on AWS](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS.git)** 
-- **[ Hosted A WordPress Website on AWS](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS.git)**
-- **[ Deploy a Static Web App on AWS with Docker, Amazon ECR, and ECS]( https://github.com/joshuaagyapong/docker-project.git)**
-- **[CI/CD Deployment with GitActions on AWS (ECR, ECS, OIDC)](https://github.com/joshuaagyapong/CI-CD-Pipeline/blob/998b8dcdfd63ecf61a56ebb1bced1fef1a75ca60/README.md)**  
+- **[Host a Scalable Dynamic Web Application on AWS](https://github.com/joshuaagyapong/Scalable-Dynamic-Web-Application-on-AWS-Using-EC2-ASG-ALB-and-RDS)**  
+  EC2 Auto Scaling, Application Load Balancer, and Amazon RDS
 
+- **[Host a WordPress Website on AWS](https://github.com/joshuaagyapong/Host-a-WordPress-Website-on-AWS)**  
+  WordPress deployment with EC2, RDS, and secure networking
 
+- **[Deploy a Static Web App with Docker, Amazon ECR, and ECS](https://github.com/joshuaagyapong/docker-project)**  
+  Containerized deployment using ECS Fargate and Amazon ECR
 
+- **[CI/CD Pipeline on AWS using GitHub Actions and OIDC](https://github.com/joshuaagyapong/CI-CD-Pipeline)**  
+  Secure CI/CD pipeline deploying to Amazon ECR and ECS
 
-  
+---
 
-## 🚨 Security Operations | Incident Response
-- **[Brute Force Attempt Detection]()**  
-- **[PowerShell Suspicious Web Request]()**
-- **[Potential Impossible Travel]()**
-- **[Excessive Resource Creation / Deletion]()**  
+## 🚨 Security Operations & Incident Response
 
-## 🔍 Threat Hunting & Detection 
-- **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor.git)**
-- **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices/blob/8c97de7bf7259b148e4111a024f6bc51fdad2d59/README.md)**
+- **Brute Force Attempt Detection**  
+- **Suspicious PowerShell Web Requests**  
+- **Impossible Travel Detection**  
+- **Excessive Resource Creation or Deletion**
 
-## ⚠️ Vulnerability Management  
-- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program.git)** 
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation.git)**  
+---
 
-## 🔑 Identity and Access Management (IAM) 
-- **[Okta–Microsoft Entra ID Provisioning & Deprovisioning](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup.git)**  
+## 🔍 Threat Hunting & Detection
 
+- **[Tor Browser Usage Detection](https://github.com/joshua-agyapong/threat-hunting-scenario-tor)**  
+- **[Internet-Facing Asset Exposure Detection](https://github.com/joshuaagyapong/Internet-Facing-Devices)**  
+
+---
+
+## ⚠️ Vulnerability Management
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshua-agyapong/vulnerability-management-program)**  
+- **[Programmatic Vulnerability Remediation with PowerShell and Bash](https://github.com/joshua-agyapong/Programmatic-Vulnerability-Remediation)**  
+
+---
+
+## 🔑 Identity & Access Management (IAM)
+
+- **[Okta and Microsoft Entra ID User Provisioning and Deprovisioning](https://github.com/joshua-agyapong/identity-security-lab-ISPM-environment-setup)**  
+
+---
 
 ## ☁️ SOC Lab & Cloud Security
-- **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
- 
 
-## 🤝 Connect With Me  
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+- **[SOC Honeynet on Azure – Attack Simulation and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot)**  
 
-[linkedin]: https://linkedin.com/in/joshuaagyapong
+---
 
-![Visitors](https://komarev.com/ghpvc/?username=Joshuaagyapong&label=Visitors&color=brightgreen&style=for-the-badge)
+## 🤝 Connect With Me
 
-<!--🤳
-## 🖥️ IT Support/Help Desk 
-- **[Active Directory Setup and User Management](https://github.com/joshua-agyapong/Active-Directory-Setup.git)** 
+- **LinkedIn:** https://www.linkedin.com/in/joshuaagyapong  
 
+![Profile Views](https://komarev.com/ghpvc/?username=joshuaagyapong&label=Visitors&color=brightgreen&style=flat)
 
+<!--
+Archived / Future Work
+--------------------------------
+- IT Support and Help Desk projects
+- Active Directory labs
+-->
