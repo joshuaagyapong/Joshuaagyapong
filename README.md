@@ -1,4 +1,4 @@
-# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong)  | Cloud Engineer & DevOps | Security Engineering Background
+# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cloud Engineer & DevOps | Sec-Ops Background
 
 Cloud engineer focused on designing, deploying, and securing scalable AWS infrastructure.
 Experienced in VPC networking, compute, containers, CI/CD automation, and cloud security.
