@@ -1,10 +1,11 @@
-# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong) | Cybersecurity Analyst & Cloud Engineer Portfolio 🔐 
+# [Joshua Agyapong](https://www.linkedin.com/in/joshuaagyapong)  | Cloud Engineer & DevOps | Security Engineering Background
 
-
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes, branching into Cloud Engineering 
+Cloud engineer focused on designing, deploying, and securing scalable AWS infrastructure.
+Experienced in VPC networking, compute, containers, CI/CD automation, and cloud security.
+Background in security operations brings strong threat awareness, least-privilege design,
+and production-grade hardening into cloud environments. 
 
   
-
 ## ☁️ AWS Cloud Engineer/DevOps 
 
 - **Designed and documented a production-style 3-tier VPC architecture on AWS**  
