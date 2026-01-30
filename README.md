@@ -43,6 +43,12 @@ and production-grade hardening into cloud environments.
 
 ## ☁️ SOC Lab & Cloud Security
 - **[SOC & Honeynet with Azure; Attack and Remediation](https://github.com/joshuaagyapong/Azure-Honeypot.git)** 
+
+## 🛠️ Core Technologies
+
+AWS (VPC, EC2, ALB, ASG, RDS, ECS, ECR)  
+Docker | GitHub Actions | CI/CD | Linux  
+IAM | OIDC | Networking | Security Groups
  
 
 ## 🤝 Connect With Me  
